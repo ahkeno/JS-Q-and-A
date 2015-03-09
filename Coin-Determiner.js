@@ -1,4 +1,4 @@
-function Coin-Determiner(num){
+function CoinDeterminer(num){
 	var count = 0;
 	do {
 		if (num = 15) num-= 15;
