@@ -14,6 +14,6 @@ Use the Parameter Testing feature in the box below to test your code with differ
 <h3>Question 4: Array Sort</h3>
 Have the function ArraySort(arr) take the arr and sort the array as random number of array as possible
 
-<h3>Question 4: Prime Checker</h3>
+<h3>Question 5: Prime Checker</h3>
 Have the function PrimeChecker(num) take num and return 1 if any arrangement of num comes out to be a prime number, otherwise return 0. For example: if num is 910, the output should be 1 because 910 can be arranged into 109 or 019, both of which are primes. 
 Use the Parameter Testing feature in the box below to test your code with different arguments.
