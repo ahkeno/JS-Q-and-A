@@ -11,5 +11,5 @@ Use the Parameter Testing feature in the box below to test your code with differ
 Have the function LetterCapitalize(str) take the str parameter being passed and capitalize the first letter of each word. Words will be separated by only one space. 
 Use the Parameter Testing feature in the box below to test your code with different arguments.
 
-<h4>Question 4: Array Sort</h3>
+<h3>Question 4: Array Sort</h3>
 Have the function ArraySort(arr) take the arr and sort the array as random number of array as possible
