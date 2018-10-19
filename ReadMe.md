@@ -32,3 +32,6 @@ Use the Parameter Testing feature in the box below to test your code with differ
 <h3>Letter CountI</h3>
 <p>Using the JavaScript language, have the function LetterCountI(str) take the str parameter being passed and return the first word with the greatest number of repeated letters. For example: "Today, is the greatest day ever!" should return greatest because it has 2 e's (and 2 t's) and it comes before ever which also has 2 e's. If there are no words with repeating letters return -1. Words will be separated by spaces</p>
 
+37 Essential JavaScript Interview Questions 
+link: <a href="https://www.toptal.com/javascript/interview-questions">https://www.toptal.com/javascript/interview-questions</a>
+
